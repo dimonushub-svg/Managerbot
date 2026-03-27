@@ -1,0 +1,11 @@
+{
+  "name": "control-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "axios": "^1.6.0"
+  }
+}
